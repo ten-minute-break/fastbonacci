@@ -3,7 +3,7 @@
 Task: calculate the Nth fibonacci number, fast! :)
 How fast will your version be and what trickery will you use to surpass the awesome speed of the function above?
 
-The maximal N for which we'll test is whatever can fit within `long`! :)
+The maximal N for this will be 72, to fit the longest integer representation! :)
 
 # Note
 
